@@ -1,0 +1,21 @@
+1. when user click Rock,
+	comp
+	rock	tie
+	paper	lose
+	scissor win
+
+2. when user click paper,
+	comp
+	rock	win
+	paper	tie
+	scissor lose
+
+3. when user click scissor,
+	comp
+	rock	lose
+	paper	win
+	scissor tie
+
+win	border color	green	score increase by 1
+lose	border color	red	score decrease by 1
+draw	border color	grey	score remain constant
